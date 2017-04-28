@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EDC4B265-DC44-4825-9C7B-91FC61EE22D6}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		azuredeploy.json = azuredeploy.json
+		bower.json = bower.json
+		config.example.js = config.example.js
+		config.js = config.js
+		Gruntfile.js = Gruntfile.js
+		iisnode.yml = iisnode.yml
+		index.js = index.js
+		LICENSE = LICENSE
+		npm-shrinkwrap.json = npm-shrinkwrap.json
+		package.json = package.json
+		PRIVACY.md = PRIVACY.md
+		README.md = README.md
+		web.config = web.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
